@@ -10,5 +10,5 @@ This character RPG game is a Java application which utilizes SWING for the front
 
 # Install & Use
 - Download and install IDE of your choice (Intellij IDEA recommended).
-- Download the code as a zip and extract the 'RPG' folder. ALternatively clone the repository into your IDE.
+- Download the code as a zip and extract the 'RPG' folder. Alternatively clone the repository into your IDE.
 - Run app.
