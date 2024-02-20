@@ -12,3 +12,5 @@ This character RPG game is a Java application which utilizes SWING for the front
 - Download and install IDE of your choice (Intellij IDEA recommended).
 - Download the code as a zip and extract the 'RPG' folder. Alternatively clone the repository into your IDE.
 - Run app.
+
+![3](https://github.com/SCMLuke/Character-RPG-Game/assets/120058599/04377a0d-cb4d-429d-89cd-7fce7130118a)
