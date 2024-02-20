@@ -116,7 +116,13 @@ public class MainFrame extends JFrame {
         endButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                dispose();
+                characterScreen.setVisible(true);
+                int monsterHealthRandom = randomMonster.nextInt(80);
+                int monsterMagicRandom = randomMonster.nextInt(80);;
+                int monsterAttackRandom = randomMonster.nextInt(80);;
+                int monsterDefenseRandom = randomMonster.nextInt(80);;
+                int monsterExpRandom = randomMonster.nextInt(500);
+                theMonster = new Monster(monsterHealthRandom,monsterAttackRandom,monsterDefenseRandom,monsterMagicRandom,monsterExpRandom);
             }
         });
 
